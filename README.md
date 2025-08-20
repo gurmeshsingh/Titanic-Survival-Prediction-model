@@ -16,4 +16,4 @@ Place these files in `data/`:
 
 > Kaggle dataset: “Titanic: Machine Learning from Disaster”
 
-## 🧱 Suggested Repo Structure
+
